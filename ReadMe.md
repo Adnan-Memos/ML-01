@@ -10,7 +10,7 @@ Completed in Jul 2023.
 
 ## Introduction
 
-My project aims to develop a book recommendation web application using machine learning. Users can input a book title they enjoyed, and based on genre and average rating, the system suggests ten similar books. The application, built with Python using Streamlit for the interface, provides an accessible and user-friendly experience. Data preprocessing and exploration are performed using Python libraries like pandas, matplotlib, and eaborn. 
+My project aims to develop a book recommendation web application using machine learning. Users can input a book title they enjoyed, and based on genre and average rating, the system suggests ten similar books. The application, built with Python using Streamlit for the interface, provides an accessible and user-friendly experience. Data preprocessing and exploration are performed using Python libraries like pandas, matplotlib, and seaborn. 
 
 The nearest neighbor algorithm is employed to find relevant book recommendations. The 'BX-Book-Ratings.csv' dataset from Kaggle is utilized. This Book Recommendation System offers a convenient solution for discovering new books and fostering reading habits.
 
